@@ -1,5 +1,5 @@
-name: N64St (North America)
-sha1: be61656545bd9376357b9a0269b9a4a55f740588
+name: N64St
+sha1: 944358bea1e6930cf6d6d2d6055f11192cf72b07
 options:
   basename: n64st
   target_path: n64st.rom
